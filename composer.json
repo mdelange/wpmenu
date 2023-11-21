@@ -1,0 +1,14 @@
+{
+    "name": "mdelange/wpmenu",
+    "description": "Menu helpers for WordPress",
+    "license": "proprietary",
+    "type": "library",
+    "version": "1.0",
+    "minimum-stability": "1.0",
+    "require": {
+        "timber/timber": "^1.19"
+    },
+    "autoload": {
+        "files": ["menu.php"]
+    }
+}
